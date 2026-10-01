@@ -1,0 +1,2 @@
+holidays>=0.60,<1
+requests>=2.32,<3

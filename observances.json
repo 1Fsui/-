@@ -1,0 +1,502 @@
+[
+  {
+    "date": "01-04",
+    "name_en": "World Braille Day",
+    "name_zh": "世界盲文日"
+  },
+  {
+    "date": "01-24",
+    "name_en": "International Day of Education",
+    "name_zh": "国际教育日"
+  },
+  {
+    "date": "01-26",
+    "name_en": "International Customs Day",
+    "name_zh": "国际海关日"
+  },
+  {
+    "date": "01-27",
+    "name_en": "International Day of Commemoration in Memory of the Victims of the Holocaust",
+    "name_zh": "国际大屠杀受难者纪念日"
+  },
+  {
+    "date": "02-02",
+    "name_en": "World Wetlands Day",
+    "name_zh": "世界湿地日"
+  },
+  {
+    "date": "02-04",
+    "name_en": "World Cancer Day",
+    "name_zh": "世界癌症日"
+  },
+  {
+    "date": "02-06",
+    "name_en": "International Day of Zero Tolerance for Female Genital Mutilation",
+    "name_zh": "反对女性生殖器残割国际日"
+  },
+  {
+    "date": "02-10",
+    "name_en": "World Pulses Day",
+    "name_zh": "世界豆类日"
+  },
+  {
+    "date": "02-11",
+    "name_en": "International Day of Women and Girls in Science",
+    "name_zh": "妇女和女童参与科学国际日"
+  },
+  {
+    "date": "02-13",
+    "name_en": "World Radio Day",
+    "name_zh": "世界无线电日"
+  },
+  {
+    "date": "02-20",
+    "name_en": "World Day of Social Justice",
+    "name_zh": "世界社会正义日"
+  },
+  {
+    "date": "02-21",
+    "name_en": "International Mother Language Day",
+    "name_zh": "国际母语日"
+  },
+  {
+    "date": "02-22",
+    "name_en": "World Thinking Day",
+    "name_zh": "世界思考日"
+  },
+  {
+    "date": "03-01",
+    "name_en": "Zero Discrimination Day",
+    "name_zh": "零歧视日"
+  },
+  {
+    "date": "03-03",
+    "name_en": "World Wildlife Day",
+    "name_zh": "世界野生动植物日"
+  },
+  {
+    "date": "03-08",
+    "name_en": "International Women's Day",
+    "name_zh": "国际妇女节"
+  },
+  {
+    "date": "03-20",
+    "name_en": "International Day of Happiness",
+    "name_zh": "国际幸福日"
+  },
+  {
+    "date": "03-21",
+    "name_en": "World Poetry Day",
+    "name_zh": "世界诗歌日"
+  },
+  {
+    "date": "03-21",
+    "name_en": "International Day of Forests",
+    "name_zh": "国际森林日"
+  },
+  {
+    "date": "03-22",
+    "name_en": "World Water Day",
+    "name_zh": "世界水日"
+  },
+  {
+    "date": "03-23",
+    "name_en": "World Meteorological Day",
+    "name_zh": "世界气象日"
+  },
+  {
+    "date": "03-24",
+    "name_en": "World Tuberculosis Day",
+    "name_zh": "世界防治结核病日"
+  },
+  {
+    "date": "03-30",
+    "name_en": "International Day of Zero Waste",
+    "name_zh": "国际零废物日"
+  },
+  {
+    "date": "04-02",
+    "name_en": "World Autism Awareness Day",
+    "name_zh": "世界自闭症意识日"
+  },
+  {
+    "date": "04-04",
+    "name_en": "International Day for Mine Awareness",
+    "name_zh": "国际地雷意识日"
+  },
+  {
+    "date": "04-07",
+    "name_en": "World Health Day",
+    "name_zh": "世界卫生日"
+  },
+  {
+    "date": "04-11",
+    "name_en": "World Parkinson's Day",
+    "name_zh": "世界帕金森病日"
+  },
+  {
+    "date": "04-12",
+    "name_en": "International Day of Human Space Flight",
+    "name_zh": "国际载人航天日"
+  },
+  {
+    "date": "04-15",
+    "name_en": "World Art Day",
+    "name_zh": "世界艺术日"
+  },
+  {
+    "date": "04-22",
+    "name_en": "International Mother Earth Day",
+    "name_zh": "国际地球母亲日"
+  },
+  {
+    "date": "04-23",
+    "name_en": "World Book and Copyright Day",
+    "name_zh": "世界图书和版权日"
+  },
+  {
+    "date": "04-25",
+    "name_en": "World Malaria Day",
+    "name_zh": "世界疟疾日"
+  },
+  {
+    "date": "04-26",
+    "name_en": "World Intellectual Property Day",
+    "name_zh": "世界知识产权日"
+  },
+  {
+    "date": "04-30",
+    "name_en": "International Jazz Day",
+    "name_zh": "国际爵士乐日"
+  },
+  {
+    "date": "05-03",
+    "name_en": "World Press Freedom Day",
+    "name_zh": "世界新闻自由日"
+  },
+  {
+    "date": "05-05",
+    "name_en": "World Portuguese Language Day",
+    "name_zh": "世界葡萄牙语日"
+  },
+  {
+    "date": "05-08",
+    "name_en": "World Red Cross and Red Crescent Day",
+    "name_zh": "世界红十字和红新月日"
+  },
+  {
+    "date": "05-12",
+    "name_en": "International Nurses Day",
+    "name_zh": "国际护士节"
+  },
+  {
+    "date": "05-15",
+    "name_en": "International Day of Families",
+    "name_zh": "国际家庭日"
+  },
+  {
+    "date": "05-17",
+    "name_en": "World Telecommunication and Information Society Day",
+    "name_zh": "世界电信和信息社会日"
+  },
+  {
+    "date": "05-20",
+    "name_en": "World Bee Day",
+    "name_zh": "世界蜜蜂日"
+  },
+  {
+    "date": "05-21",
+    "name_en": "World Day for Cultural Diversity",
+    "name_zh": "世界文化多样性促进对话和发展日"
+  },
+  {
+    "date": "05-22",
+    "name_en": "International Day for Biological Diversity",
+    "name_zh": "国际生物多样性日"
+  },
+  {
+    "date": "05-31",
+    "name_en": "World No Tobacco Day",
+    "name_zh": "世界无烟日"
+  },
+  {
+    "date": "06-01",
+    "name_en": "Global Day of Parents",
+    "name_zh": "全球父母节"
+  },
+  {
+    "date": "06-03",
+    "name_en": "World Bicycle Day",
+    "name_zh": "世界自行车日"
+  },
+  {
+    "date": "06-05",
+    "name_en": "World Environment Day",
+    "name_zh": "世界环境日"
+  },
+  {
+    "date": "06-08",
+    "name_en": "World Oceans Day",
+    "name_zh": "世界海洋日"
+  },
+  {
+    "date": "06-12",
+    "name_en": "World Day Against Child Labour",
+    "name_zh": "世界无童工日"
+  },
+  {
+    "date": "06-14",
+    "name_en": "World Blood Donor Day",
+    "name_zh": "世界献血者日"
+  },
+  {
+    "date": "06-17",
+    "name_en": "World Day to Combat Desertification and Drought",
+    "name_zh": "世界防治荒漠化和干旱日"
+  },
+  {
+    "date": "06-20",
+    "name_en": "World Refugee Day",
+    "name_zh": "世界难民日"
+  },
+  {
+    "date": "06-21",
+    "name_en": "International Yoga Day",
+    "name_zh": "国际瑜伽日"
+  },
+  {
+    "date": "06-23",
+    "name_en": "International Widows' Day",
+    "name_zh": "国际寡妇日"
+  },
+  {
+    "date": "06-26",
+    "name_en": "International Day Against Drug Abuse and Illicit Trafficking",
+    "name_zh": "国际禁止药物滥用和非法贩运日"
+  },
+  {
+    "date": "06-30",
+    "name_en": "International Asteroid Day",
+    "name_zh": "国际小行星日"
+  },
+  {
+    "date": "07-15",
+    "name_en": "World Youth Skills Day",
+    "name_zh": "世界青年技能日"
+  },
+  {
+    "date": "07-20",
+    "name_en": "International Chess Day",
+    "name_zh": "国际国际象棋日"
+  },
+  {
+    "date": "07-30",
+    "name_en": "World Day Against Trafficking in Persons",
+    "name_zh": "世界打击贩运人口日"
+  },
+  {
+    "date": "08-09",
+    "name_en": "International Day of the World's Indigenous Peoples",
+    "name_zh": "世界土著人民国际日"
+  },
+  {
+    "date": "08-12",
+    "name_en": "International Youth Day",
+    "name_zh": "国际青年日"
+  },
+  {
+    "date": "08-19",
+    "name_en": "World Humanitarian Day",
+    "name_zh": "世界人道主义日"
+  },
+  {
+    "date": "08-23",
+    "name_en": "International Day for the Remembrance of the Slave Trade and its Abolition",
+    "name_zh": "贩卖奴隶及其废除国际纪念日"
+  },
+  {
+    "date": "08-29",
+    "name_en": "International Day Against Nuclear Tests",
+    "name_zh": "反对核试验国际日"
+  },
+  {
+    "date": "09-08",
+    "name_en": "International Literacy Day",
+    "name_zh": "国际扫盲日"
+  },
+  {
+    "date": "09-15",
+    "name_en": "International Day of Democracy",
+    "name_zh": "国际民主日"
+  },
+  {
+    "date": "09-16",
+    "name_en": "International Day for the Preservation of the Ozone Layer",
+    "name_zh": "保护臭氧层国际日"
+  },
+  {
+    "date": "09-21",
+    "name_en": "International Day of Peace",
+    "name_zh": "国际和平日"
+  },
+  {
+    "date": "09-27",
+    "name_en": "World Tourism Day",
+    "name_zh": "世界旅游日"
+  },
+  {
+    "date": "09-28",
+    "name_en": "International Day for Universal Access to Information",
+    "name_zh": "普遍获得信息国际日"
+  },
+  {
+    "date": "09-29",
+    "name_en": "International Day of Awareness of Food Loss and Waste",
+    "name_zh": "国际粮食损失和浪费问题宣传日"
+  },
+  {
+    "date": "09-30",
+    "name_en": "International Translation Day",
+    "name_zh": "国际翻译日"
+  },
+  {
+    "date": "10-01",
+    "name_en": "International Coffee Day",
+    "name_zh": "国际咖啡日"
+  },
+  {
+    "date": "10-02",
+    "name_en": "International Day of Non-Violence",
+    "name_zh": "国际非暴力日"
+  },
+  {
+    "date": "10-05",
+    "name_en": "World Teachers' Day",
+    "name_zh": "世界教师日"
+  },
+  {
+    "date": "10-10",
+    "name_en": "World Mental Health Day",
+    "name_zh": "世界精神卫生日"
+  },
+  {
+    "date": "10-15",
+    "name_en": "International Day of Rural Women",
+    "name_zh": "国际农村妇女日"
+  },
+  {
+    "date": "10-16",
+    "name_en": "World Food Day",
+    "name_zh": "世界粮食日"
+  },
+  {
+    "date": "10-17",
+    "name_en": "International Day for the Eradication of Poverty",
+    "name_zh": "消除贫困国际日"
+  },
+  {
+    "date": "10-24",
+    "name_en": "United Nations Day",
+    "name_zh": "联合国日"
+  },
+  {
+    "date": "10-31",
+    "name_en": "World Cities Day",
+    "name_zh": "世界城市日"
+  },
+  {
+    "date": "11-05",
+    "name_en": "World Tsunami Awareness Day",
+    "name_zh": "世界海啸意识日"
+  },
+  {
+    "date": "11-10",
+    "name_en": "World Science Day for Peace and Development",
+    "name_zh": "世界科学日"
+  },
+  {
+    "date": "11-13",
+    "name_en": "World Kindness Day",
+    "name_zh": "世界善意日"
+  },
+  {
+    "date": "11-14",
+    "name_en": "World Diabetes Day",
+    "name_zh": "世界糖尿病日"
+  },
+  {
+    "date": "11-16",
+    "name_en": "International Day for Tolerance",
+    "name_zh": "国际宽容日"
+  },
+  {
+    "date": "11-19",
+    "name_en": "World Toilet Day",
+    "name_zh": "世界厕所日"
+  },
+  {
+    "date": "11-20",
+    "name_en": "World Children's Day",
+    "name_zh": "世界儿童日"
+  },
+  {
+    "date": "11-21",
+    "name_en": "World Television Day",
+    "name_zh": "世界电视日"
+  },
+  {
+    "date": "11-25",
+    "name_en": "International Day for the Elimination of Violence against Women",
+    "name_zh": "消除对妇女暴力国际日"
+  },
+  {
+    "date": "11-29",
+    "name_en": "International Day of Solidarity with the Palestinian People",
+    "name_zh": "声援巴勒斯坦人民国际日"
+  },
+  {
+    "date": "12-01",
+    "name_en": "World AIDS Day",
+    "name_zh": "世界艾滋病日"
+  },
+  {
+    "date": "12-03",
+    "name_en": "International Day of Persons with Disabilities",
+    "name_zh": "国际残疾人日"
+  },
+  {
+    "date": "12-05",
+    "name_en": "World Soil Day",
+    "name_zh": "世界土壤日"
+  },
+  {
+    "date": "12-09",
+    "name_en": "International Anti-Corruption Day",
+    "name_zh": "国际反腐败日"
+  },
+  {
+    "date": "12-10",
+    "name_en": "Human Rights Day",
+    "name_zh": "世界人权日"
+  },
+  {
+    "date": "12-11",
+    "name_en": "International Mountain Day",
+    "name_zh": "国际山岳日"
+  },
+  {
+    "date": "12-18",
+    "name_en": "International Migrants Day",
+    "name_zh": "国际移徙者日"
+  },
+  {
+    "date": "12-20",
+    "name_en": "International Human Solidarity Day",
+    "name_zh": "国际人类团结日"
+  },
+  {
+    "date": "12-27",
+    "name_en": "International Day of Epidemic Preparedness",
+    "name_zh": "防范流行病国际日"
+  }
+]
