@@ -52,7 +52,7 @@ try:
 
         name = sm.group(1).strip()
         events.append(
-            (day, f"中国：{name}", "中国国务院节假日数据源")
+            (day, name, "中国国务院节假日数据源")
         )
 
 except Exception as e:
